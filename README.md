@@ -18,7 +18,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/eddymontana/cosine-similarity.git
+git clone https://github.com/eddymontana/cosine-similarity
 cd cosine-similarity
 Dataset: Place your fashion image dataset in the designated data/ directory (e.g., data/fashion_images/).
 
